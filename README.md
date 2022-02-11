@@ -13,4 +13,4 @@ Apromorando conceitos (iniciantes):
 
 
 
-![menu_jogo](C:\DIO\JogosHTML5\construindo_jogo_resgate\batalha.PNG )
+![menu_jogo](menu_jogo.PNG)
