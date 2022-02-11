@@ -4,7 +4,7 @@ Praticando frond de forma divertida e animada, para meu aprimoramento pessoal no
 
 Curso de Boocamp oferecido pela **Digital Innovation one** e **Take Blip**
 
-Apromorando conceitos (iniciantes):
+Aprimorando conceitos (iniciantes):
 
 - *HTML*
 - *CSS*
